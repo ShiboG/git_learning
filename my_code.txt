@@ -7,3 +7,4 @@ this is the fifth line as a new feature
 this is the added online command
 try again
 the final line
+this is revised using second feature
