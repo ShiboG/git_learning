@@ -1,0 +1,2 @@
+1. add get_rates_i.f90
+2. change makefile, make.PGI, and chemkin_m.f90
