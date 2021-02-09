@@ -1,0 +1,2 @@
+1. update mixavg_transport_m.f90 file to EVATTVERSION
+2. update build/make.PGI 
