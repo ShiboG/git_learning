@@ -1,0 +1,2 @@
+1. add dns_h2ddi.f90
+2. update makefile in build folder
